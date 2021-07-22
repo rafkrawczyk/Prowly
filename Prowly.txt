@@ -35,7 +35,7 @@ Test steps:
     1. Enter the word "prowly" in the search field
     2. Click "Google Search" button
     3. Click "Tools" button
-    4. Click "Past 24 hours" in the time pop-up menu
+    4. Select "Past 24 hours" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past 24 hours
 
 Test Case ID: B.2
@@ -46,7 +46,7 @@ Test steps:
     1. Enter the word "prowly" in the search field
     2. Click "Google Search" button
     3. Click "Tools" button
-    4. Click "Past month" in the time pop-up menu
+    4. Select "Past month" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past month
 
 Test Case ID: B.3
@@ -57,5 +57,5 @@ Test steps:
     1. Enter the word "prowly" in the search field
     2. Click "Google Search" button
     3. Click "Tools" button
-    4. Click "Past year" in the time pop-up menu
+    4. Select "Past year" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past year
