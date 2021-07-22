@@ -1,0 +1,8 @@
+Test Case ID: 1.1
+Title: Search for the word "prowly" in google.com with filter "All"
+Environment: Chrome Web Browser, Windows 10 operating system
+Pre-condition: Web browser open on "https://www.google.com/"
+Test steps:
+    1. Enter the word "prowly" in the search field
+    2. Click "Google Search" button
+Expected result: Redirected to a webpage with a list of results for the word "prowly"
