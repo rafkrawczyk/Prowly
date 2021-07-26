@@ -1,61 +1,70 @@
 Test Case ID: A.1
 Title: Search for the word "prowly" in google.com with filter "All"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
 Expected result: Redirection to a webpage with a list of results for the word "prowly"
 
 Test Case ID: A.2
 Title: Search for the word "prowly" in google.com with filter "Videos"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
-    3. Click "Videos" button
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
+    4. Click "Videos" button
 Expected result: Redirection to a webpage with a list of videos with the word "prowly"
 
 Test Case ID: A.3
 Title: Search for the word "prowly" in google.com with filter "News"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
-    3. Click "News" button
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
+    4. Click "News" button
 Expected result: Redirection to a webpage with a list of news articles with the word "prowly"
 
 Test Case ID: B.1
 Title: Search for the word "prowly" in google.com with time filter "Past 24 hours"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
-    3. Click "Tools" button
-    4. Select "Past 24 hours" in the time pop-up menu
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
+    4. Click "Tools" button
+    5. Click "Any time" field
+    6. Select "Past 24 hours" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past 24 hours
 
 Test Case ID: B.2
 Title: Search for the word "prowly" in google.com with time filter "Past month"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
-    3. Click "Tools" button
-    4. Select "Past month" in the time pop-up menu
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
+    4. Click "Tools" button
+    5. Click "Any time" field
+    6. Select "Past month" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past month
 
 Test Case ID: B.3
 Title: Search for the word "prowly" in google.com with time filter "Past year"
 Environment: Chrome Web Browser Version 92.0.4515.107, Windows 10 operating system
-Pre-condition: Web browser open on "https://www.google.com/"
+Pre-condition: Web browser open
 Test steps:
-    1. Enter the word "prowly" in the search field
-    2. Click "Google Search" button
-    3. Click "Tools" button
-    4. Select "Past year" in the time pop-up menu
+    1. Go to www.google.com
+    2. Enter the word "prowly" in the search field
+    3. Click "Google Search" button
+    4. Click "Tools" button
+    5. Click "Any time" field
+    6. Select "Past year" in the time pop-up menu
 Expected result: Redirection to a webpage with a list of results for the word "prowly" from the past year
